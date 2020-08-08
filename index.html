@@ -11,36 +11,12 @@
     <link rel="stylesheet" href="style.css" />
     <link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
     <title>Reproductor de Música</title>
+    
+    <!-- AMD Require -->
+    <script data-main="app.js" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js"></script>
   </head>
   <body>
-    <h1>Música de César</h1>
 
-    <div class="music-container" id="music-container">
-      <div class="music-info">
-        <h4 id="title"></h4>
-        <div class="progress-container" id="progress-container">
-          <div class="progress" id="progress"></div>
-        </div>
-      </div>
-
-      <audio src="music/netflix&chill.mp3" id="audio"></audio>
-
-      <div class="img-container">
-        <img src="images/netflix&chill.jpg" alt="music-cover" id="cover" />
-      </div>
-      <div class="navigation">
-        <button id="prev" class="action-btn">
-          <i class="fas fa-backward"></i>
-        </button>
-        <button id="play" class="action-btn action-btn-big">
-          <i class="fas fa-play"></i>
-        </button>
-        <button id="next" class="action-btn">
-          <i class="fas fa-forward"></i>
-        </button>
-      </div>
-    </div>
-
-    <script src="script.js"></script>
+    
   </body>
 </html>

@@ -151,3 +151,34 @@ h1{
   width: 0%;
   transition: width 0.1s linear;
 }
+
+.lista-canciones {
+  width: 100%;
+  padding: 10%;
+}
+
+.lista-canciones ul {
+  list-style:none; 
+}
+
+.lista-canciones ul li { 
+    font-family:Georgia,serif,Times; 
+    font-size:18px; 
+    display:block; 
+    height:30px; 
+    background-color:#333; 
+    border-left:5px solid #222; 
+    border-right:5px solid #222; 
+    padding-left:10px;
+    text-decoration:none; 
+    color:#bfe1f1; 
+}
+
+.lista-canciones ul li:hover { 
+    background-color: #999;
+}
+
+.lista-canciones ul i { 
+    float: right;
+    margin: 5px;
+}
