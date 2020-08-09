@@ -11,6 +11,11 @@ define(['backbone', 'module'], function(Backbone, module){
 		},
 		initialize:function(){
 			var self = this 
+		},
+		validate: function(attrs, options) {
+		    if (attrs.nombre == "" || attrs.artista == "") {
+		      return "Por favor rellenar los campos";
+		    }
 		}
 	})
 

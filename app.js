@@ -5,7 +5,6 @@
 // except for 'app' ones, which are in a sibling
 // directory.
 
-//window.urlServidor = 'http://localhost:3000';
 window.urlServidor = 'https://inalambria-cfc.herokuapp.com';
 
 requirejs.config({
@@ -13,6 +12,7 @@ requirejs.config({
     config:{
         //'User/user.model': {urlServer: 'http://soiplast-v3.herokuapp.com'},
         'Modelos/cancion.model': {urlServer: window.urlServidor},
+        'Modelos/lista.model': {urlServer: window.urlServidor},
         'Collection/cancion.collection': {urlServer: window.urlServidor}
     },
     shim:{ 
@@ -21,12 +21,7 @@ requirejs.config({
             deps: ['underscore', 'jquery'],
             //Once loaded, use the global 'Backbone' as the module value.
             exports: 'Backbone'
-        },
-        /*'foundation':{
-            deps: ['jquery'],
-            exports: 'Foundation'
-        },*/
-        //'User/user.collection': {deps:['User/user.model'], export:'JugadorCollection'}
+        }
     },
     paths: {
         jquery: 'jquery-min',

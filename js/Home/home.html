@@ -7,7 +7,7 @@
       </form>
       <ul>
         <% _.each(lista, function (cancion){ %>
-          <li><%= cancion.nombre %> - <%= cancion.artista %> <i data-id="<%= cancion._id %>" class="fas fa-heart"></i></li>
+          <li><%= cancion.nombre %> - <%= cancion.artista %> <i data-id="<%= cancion._id %>" class="fas fa-heart <%= (favoritos.indexOf(cancion._id)>-1)? 'fa-heart--active':'' %>"></i></li>
         <% }) %>
       </ul>
     </div>
