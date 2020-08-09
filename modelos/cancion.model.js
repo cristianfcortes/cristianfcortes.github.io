@@ -11,10 +11,7 @@ define(['backbone', 'module'], function(Backbone, module){
 		},
 		initialize:function(){
 			var self = this 
-		},
-		parse:function(data){
-
-		}	
+		}
 	})
 
 	return cancion

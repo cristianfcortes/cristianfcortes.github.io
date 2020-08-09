@@ -5,13 +5,15 @@
 // except for 'app' ones, which are in a sibling
 // directory.
 
+//window.urlServidor = 'http://localhost:3000';
 window.urlServidor = 'https://inalambria-cfc.herokuapp.com';
 
 requirejs.config({
     baseUrl: 'lib',
     config:{
         //'User/user.model': {urlServer: 'http://soiplast-v3.herokuapp.com'},
-        'Modelos/cancion.model': {urlServer: window.urlServidor}
+        'Modelos/cancion.model': {urlServer: window.urlServidor},
+        'Collection/cancion.collection': {urlServer: window.urlServidor}
     },
     shim:{ 
     	'backbone': {
@@ -34,28 +36,29 @@ requirejs.config({
         text:'text',
         router: '../js/router',
         Home: '../js/Home',
-        Modelos: '../modelos'
+        Modelos: '../modelos',
+        Collection: '../collection'
     },
     waitSeconds:0
 });
 
 
-    // Start loading the main app file. Put all of
-    // your application logic in there.
-    requirejs(['backbone', 'router'],function(Backbone){
+// Cargamos el archivo principal de la aplicación
+requirejs(['backbone', 'router'],function(Backbone){
 
-        Base = {}
+    Base = {}
 
-        $.ajaxPrefilter(function(options, originalOptions, jqXHR) {
-            options.crossDomain ={
-                crossDomain: true
-            };
-            options.xhrFields = {
-                withCredentials: true
-            };
-        });
-
-        var Router = require('router');
-        Base.app = new Router()
+    // Soluciona los permisos de CORS
+    $.ajaxPrefilter(function(options, originalOptions, jqXHR) {
+        options.crossDomain ={
+            crossDomain: true
+        };
+        options.xhrFields = {
+            withCredentials: true
+        };
     });
-      
+
+    var Router = require('router');
+    Base.app = new Router()
+});
+  

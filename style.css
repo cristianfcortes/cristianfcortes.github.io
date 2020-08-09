@@ -159,6 +159,7 @@ h1{
 
 .lista-canciones ul {
   list-style:none; 
+  padding: 0;
 }
 
 .lista-canciones ul li { 

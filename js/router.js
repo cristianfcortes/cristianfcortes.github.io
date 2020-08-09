@@ -12,8 +12,9 @@ define(function(require, exports, module){
         },
         // Pagina principal 
         Home: function(){
+            // Cargamos la Vista a la variable vHome
             let vHome = this.m = new Home()
-            vHome.setElement($('body')).render()
+            vHome.setElement($('.main'))
         }
     });
 
