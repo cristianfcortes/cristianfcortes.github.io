@@ -1,0 +1,952 @@
+[
+  {
+    "_id": "6451104c9a383f8955736ad2",
+    "capitan": "64506ba76deb6789a2144fae",
+    "ciudad": "Madrid",
+    "entrenador": null,
+    "fichajes": [
+      {
+        "_id": "64506bad6deb6789a2144fca",
+        "apellido": "González",
+        "ciudad": "Ciudad de México",
+        "direccion": {},
+        "edad": null,
+        "email": "mateogonzalez@example.com",
+        "fecha_nacimiento": "1991-02-28",
+        "nacimiento": null,
+        "nombre": "Mateo",
+        "numero_camiseta": null,
+        "pais": "México",
+        "password": "contraseña12345",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "jugadores": [
+      {
+        "_id": "64506ba76deb6789a2144fae",
+        "apellido": "Pérez",
+        "ciudad": "Barcelona",
+        "direccion": {},
+        "edad": null,
+        "email": "juanperez@example.com",
+        "fecha_nacimiento": "1990-01-01",
+        "nacimiento": null,
+        "nombre": "Juan",
+        "numero_camiseta": null,
+        "pais": "España",
+        "password": "contraseña123",
+        "posicion": null,
+        "telefono": null
+      },
+      {
+        "_id": "64506bae6deb6789a2144fcb",
+        "apellido": "Cortes",
+        "ciudad": "Colombia",
+        "direccion": {},
+        "edad": null,
+        "email": "cristiancortes@example.com",
+        "fecha_nacimiento": "1985-09-22",
+        "nacimiento": null,
+        "nombre": "Cristian",
+        "numero_camiseta": null,
+        "pais": "Bogotá",
+        "password": "pass679",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Real Madrid",
+    "noticias": [],
+    "pais": "España",
+    "partidos": [],
+    "solicitudes": [
+      {
+        "_id": "64506bad6deb6789a2144fca",
+        "apellido": "González",
+        "ciudad": "Ciudad de México",
+        "direccion": {},
+        "edad": null,
+        "email": "mateogonzalez@example.com",
+        "fecha_nacimiento": "1991-02-28",
+        "nacimiento": null,
+        "nombre": "Mateo",
+        "numero_camiseta": null,
+        "pais": "México",
+        "password": "contraseña12345",
+        "posicion": null,
+        "telefono": null
+      }
+    ]
+  },
+  {
+    "_id": "6451104c9a383f8955736ad4",
+    "capitan": "64506ba86deb6789a2144faf",
+    "ciudad": "Barcelona",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506ba86deb6789a2144faf",
+        "apellido": "García",
+        "ciudad": "Madrid",
+        "direccion": {},
+        "edad": null,
+        "email": "mariagarcia@example.com",
+        "fecha_nacimiento": "1985-02-15",
+        "nacimiento": null,
+        "nombre": "María",
+        "numero_camiseta": null,
+        "pais": "España",
+        "password": "abcd1234",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Barcelona",
+    "noticias": [],
+    "pais": "España",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "6451104c9a383f8955736ad6",
+    "capitan": "64506ba86deb6789a2144fb0",
+    "ciudad": "Manchester",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506ba86deb6789a2144fb0",
+        "apellido": "Ruiz",
+        "ciudad": "Buenos Aires",
+        "direccion": {},
+        "edad": null,
+        "email": "carlosruiz@example.com",
+        "fecha_nacimiento": "1992-03-10",
+        "nacimiento": null,
+        "nombre": "Carlos",
+        "numero_camiseta": null,
+        "pais": "Argentina",
+        "password": "contra321",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Manchester United",
+    "noticias": [],
+    "pais": "Reino Unido",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "6451104d9a383f8955736ad8",
+    "capitan": "64506ba96deb6789a2144fb1",
+    "ciudad": "Munich",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506ba96deb6789a2144fb1",
+        "apellido": "Martínez",
+        "ciudad": "Lima",
+        "direccion": {},
+        "edad": null,
+        "email": "luisamartinez@example.com",
+        "fecha_nacimiento": "1998-04-20",
+        "nacimiento": null,
+        "nombre": "Luisa",
+        "numero_camiseta": null,
+        "pais": "Perú",
+        "password": "mipassword",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Bayern Munich",
+    "noticias": [],
+    "pais": "Alemania",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "6451104d9a383f8955736ada",
+    "capitan": "64506ba96deb6789a2144fb2",
+    "ciudad": "Liverpool",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506ba96deb6789a2144fb2",
+        "apellido": "González",
+        "ciudad": "México DF",
+        "direccion": {},
+        "edad": null,
+        "email": "fernandogonzalez@example.com",
+        "fecha_nacimiento": "1987-05-05",
+        "nacimiento": null,
+        "nombre": "Fernando",
+        "numero_camiseta": null,
+        "pais": "México",
+        "password": "123456",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Liverpool",
+    "noticias": [],
+    "pais": "Reino Unido",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "6451104d9a383f8955736adc",
+    "capitan": "64506ba96deb6789a2144fb3",
+    "ciudad": "Turín",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506ba96deb6789a2144fb3",
+        "apellido": "Fernández",
+        "ciudad": "Bogotá",
+        "direccion": {},
+        "edad": null,
+        "email": "laurafernandez@example.com",
+        "fecha_nacimiento": "1995-06-18",
+        "nacimiento": null,
+        "nombre": "Laura",
+        "numero_camiseta": null,
+        "pais": "Colombia",
+        "password": "pass1234",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Juventus",
+    "noticias": [],
+    "pais": "Italia",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "6451104e9a383f8955736ade",
+    "capitan": "64506ba96deb6789a2144fb4",
+    "ciudad": "París",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506ba96deb6789a2144fb4",
+        "apellido": "Rodríguez",
+        "ciudad": "Valencia",
+        "direccion": {},
+        "edad": null,
+        "email": "pedrorodriguez@example.com",
+        "fecha_nacimiento": "1980-07-25",
+        "nacimiento": null,
+        "nombre": "Pedro",
+        "numero_camiseta": null,
+        "pais": "España",
+        "password": "abc123",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Paris Saint-Germain",
+    "noticias": [],
+    "pais": "Francia",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "6451104e9a383f8955736ae0",
+    "capitan": "64506ba96deb6789a2144fb5",
+    "ciudad": "Londres",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506ba96deb6789a2144fb5",
+        "apellido": "Sánchez",
+        "ciudad": "Barcelona",
+        "direccion": {},
+        "edad": null,
+        "email": "anasanchez@example.com",
+        "fecha_nacimiento": "1991-08-09",
+        "nacimiento": null,
+        "nombre": "Ana",
+        "numero_camiseta": null,
+        "pais": "España",
+        "password": "contra123",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Chelsea",
+    "noticias": [],
+    "pais": "Reino Unido",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "6451104e9a383f8955736ae2",
+    "capitan": "64506ba96deb6789a2144fb6",
+    "ciudad": "Milán",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506ba96deb6789a2144fb6",
+        "apellido": "Díaz",
+        "ciudad": "Quito",
+        "direccion": {},
+        "edad": null,
+        "email": "jorgediaz@example.com",
+        "fecha_nacimiento": "1999-09-30",
+        "nacimiento": null,
+        "nombre": "Jorge",
+        "numero_camiseta": null,
+        "pais": "Ecuador",
+        "password": "mipass",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "AC Milan",
+    "noticias": [],
+    "pais": "Italia",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "6451104f9a383f8955736ae4",
+    "capitan": "64506baa6deb6789a2144fb7",
+    "ciudad": "Manchester",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506baa6deb6789a2144fb7",
+        "apellido": "Ramírez",
+        "ciudad": "Medellín",
+        "direccion": {},
+        "edad": null,
+        "email": "martaramirez@example.com",
+        "fecha_nacimiento": "1994-10-12",
+        "nacimiento": null,
+        "nombre": "Marta",
+        "numero_camiseta": null,
+        "pais": "Colombia",
+        "password": "password123",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Manchester City",
+    "noticias": [],
+    "pais": "Reino Unido",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "6451104f9a383f8955736ae6",
+    "capitan": "64506baa6deb6789a2144fb8",
+    "ciudad": "Dortmund",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506baa6deb6789a2144fb8",
+        "apellido": "Hernández",
+        "ciudad": "Montevideo",
+        "direccion": {},
+        "edad": null,
+        "email": "diegohernandez@example.com",
+        "fecha_nacimiento": "1983-11-24",
+        "nacimiento": null,
+        "nombre": "Diego",
+        "numero_camiseta": null,
+        "pais": "Uruguay",
+        "password": "clave123",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Borussia Dortmund",
+    "noticias": [],
+    "pais": "Alemania",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "6451104f9a383f8955736ae8",
+    "capitan": "64506baa6deb6789a2144fb9",
+    "ciudad": "Milán",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506baa6deb6789a2144fb9",
+        "apellido": "Torres",
+        "ciudad": "Santiago",
+        "direccion": {},
+        "edad": null,
+        "email": "luciatorres@example.com",
+        "fecha_nacimiento": "1997-12-07",
+        "nacimiento": null,
+        "nombre": "Lucía",
+        "numero_camiseta": null,
+        "pais": "Chile",
+        "password": "contraseña1234",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Inter de Milán",
+    "noticias": [],
+    "pais": "Italia",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110509a383f8955736aea",
+    "capitan": "64506baa6deb6789a2144fba",
+    "ciudad": "Londres",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506baa6deb6789a2144fba",
+        "apellido": "Ruiz",
+        "ciudad": "Sevilla",
+        "direccion": {},
+        "edad": null,
+        "email": "davidruiz@example.com",
+        "fecha_nacimiento": "1988-01-19",
+        "nacimiento": null,
+        "nombre": "David",
+        "numero_camiseta": null,
+        "pais": "España",
+        "password": "abcde123",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Arsenal",
+    "noticias": [],
+    "pais": "Reino Unido",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110509a383f8955736aec",
+    "capitan": "64506baa6deb6789a2144fbb",
+    "ciudad": "Sevilla",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506baa6deb6789a2144fbb",
+        "apellido": "González",
+        "ciudad": "Ciudad de México",
+        "direccion": {},
+        "edad": null,
+        "email": "sofiagonzalez@example.com",
+        "fecha_nacimiento": "1993-02-28",
+        "nacimiento": null,
+        "nombre": "Sofía",
+        "numero_camiseta": null,
+        "pais": "México",
+        "password": "contraseña1",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Real Betis",
+    "noticias": [],
+    "pais": "España",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110509a383f8955736aee",
+    "capitan": "64506baa6deb6789a2144fbc",
+    "ciudad": "Madrid",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506baa6deb6789a2144fbc",
+        "apellido": "Moreno",
+        "ciudad": "Barcelona",
+        "direccion": {},
+        "edad": null,
+        "email": "javiermoreno@example.com",
+        "fecha_nacimiento": "1995-03-14",
+        "nacimiento": null,
+        "nombre": "Javier",
+        "numero_camiseta": null,
+        "pais": "España",
+        "password": "contra567",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Atlético de Madrid",
+    "noticias": [],
+    "pais": "España",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110519a383f8955736af0",
+    "capitan": "64506bab6deb6789a2144fbd",
+    "ciudad": "Amsterdam",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bab6deb6789a2144fbd",
+        "apellido": "Rodríguez",
+        "ciudad": "Barcelona",
+        "direccion": {},
+        "edad": null,
+        "email": "isabelrodriguez@example.com",
+        "fecha_nacimiento": "1989-04-01",
+        "nacimiento": null,
+        "nombre": "Isabel",
+        "numero_camiseta": null,
+        "pais": "España",
+        "password": "contraseña1234",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Ajax",
+    "noticias": [],
+    "pais": "Países Bajos",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110519a383f8955736af2",
+    "capitan": "64506bab6deb6789a2144fbe",
+    "ciudad": "Sevilla",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bab6deb6789a2144fbe",
+        "apellido": "Fernández",
+        "ciudad": "Madrid",
+        "direccion": {},
+        "edad": null,
+        "email": "gabrielfernandez@example.com",
+        "fecha_nacimiento": "1995-05-15",
+        "nacimiento": null,
+        "nombre": "Gabriel",
+        "numero_camiseta": null,
+        "pais": "España",
+        "password": "abcd12345",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Sevilla FC",
+    "noticias": [],
+    "pais": "España",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110519a383f8955736af4",
+    "capitan": "64506bab6deb6789a2144fbf",
+    "ciudad": "Londres",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bab6deb6789a2144fbf",
+        "apellido": "Ruiz",
+        "ciudad": "Buenos Aires",
+        "direccion": {},
+        "edad": null,
+        "email": "ceciliaruiz@example.com",
+        "fecha_nacimiento": "1990-06-10",
+        "nacimiento": null,
+        "nombre": "Cecilia",
+        "numero_camiseta": null,
+        "pais": "Argentina",
+        "password": "contra4321",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Tottenham Hotspur",
+    "noticias": [],
+    "pais": "Reino Unido",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110529a383f8955736af6",
+    "capitan": "64506bab6deb6789a2144fc0",
+    "ciudad": "Valencia",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bab6deb6789a2144fc0",
+        "apellido": "Martínez",
+        "ciudad": "Lima",
+        "direccion": {},
+        "edad": null,
+        "email": "andresmartinez@example.com",
+        "fecha_nacimiento": "1992-09-28",
+        "nacimiento": null,
+        "nombre": "Andrés",
+        "numero_camiseta": null,
+        "pais": "Perú",
+        "password": "mipass123",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Valencia",
+    "noticias": [],
+    "pais": "España",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110529a383f8955736af8",
+    "capitan": "64506bab6deb6789a2144fc1",
+    "ciudad": "Roma",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bab6deb6789a2144fc1",
+        "apellido": "González",
+        "ciudad": "México DF",
+        "direccion": {},
+        "edad": null,
+        "email": "patriciagonzalez@example.com",
+        "fecha_nacimiento": "1985-07-25",
+        "nacimiento": null,
+        "nombre": "Patricia",
+        "numero_camiseta": null,
+        "pais": "México",
+        "password": "pass456",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "AS Roma",
+    "noticias": [],
+    "pais": "Italia",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110529a383f8955736afa",
+    "capitan": "64506bab6deb6789a2144fc2",
+    "ciudad": "Lisboa",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bab6deb6789a2144fc2",
+        "apellido": "Fernández",
+        "ciudad": "Bogotá",
+        "direccion": {},
+        "edad": null,
+        "email": "sebastianfernandez@example.com",
+        "fecha_nacimiento": "1991-11-18",
+        "nacimiento": null,
+        "nombre": "Sebastián",
+        "numero_camiseta": null,
+        "pais": "Colombia",
+        "password": "contra4567",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Benfica",
+    "noticias": [],
+    "pais": "Portugal",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110539a383f8955736afc",
+    "capitan": "64506bac6deb6789a2144fc3",
+    "ciudad": "Marsella",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bac6deb6789a2144fc3",
+        "apellido": "Rodríguez",
+        "ciudad": "Valencia",
+        "direccion": {},
+        "edad": null,
+        "email": "carmenrodriguez@example.com",
+        "fecha_nacimiento": "1997-03-20",
+        "nacimiento": null,
+        "nombre": "Carmen",
+        "numero_camiseta": null,
+        "pais": "España",
+        "password": "abc456",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Olympique de Marseille",
+    "noticias": [],
+    "pais": "Francia",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110539a383f8955736afe",
+    "capitan": "64506bac6deb6789a2144fc4",
+    "ciudad": "Villarreal",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bac6deb6789a2144fc4",
+        "apellido": "Sánchez",
+        "ciudad": "Barcelona",
+        "direccion": {},
+        "edad": null,
+        "email": "robertosanchez@example.com",
+        "fecha_nacimiento": "1986-08-03",
+        "nacimiento": null,
+        "nombre": "Roberto",
+        "numero_camiseta": null,
+        "pais": "España",
+        "password": "contra456",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Villarreal",
+    "noticias": [],
+    "pais": "España",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110539a383f8955736b00",
+    "capitan": "64506bac6deb6789a2144fc5",
+    "ciudad": "Nápoles",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bac6deb6789a2144fc5",
+        "apellido": "Díaz",
+        "ciudad": "Quito",
+        "direccion": {},
+        "edad": null,
+        "email": "monicadiaz@example.com",
+        "fecha_nacimiento": "1998-05-17",
+        "nacimiento": null,
+        "nombre": "Mónica",
+        "numero_camiseta": null,
+        "pais": "Ecuador",
+        "password": "mipassword123",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Napoli",
+    "noticias": [],
+    "pais": "Italia",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110539a383f8955736b02",
+    "capitan": "64506bac6deb6789a2144fc6",
+    "ciudad": "Londres",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bac6deb6789a2144fc6",
+        "apellido": "Ramírez",
+        "ciudad": "Medellín",
+        "direccion": {},
+        "edad": null,
+        "email": "ricardoramirez@example.com",
+        "fecha_nacimiento": "1993-09-12",
+        "nacimiento": null,
+        "nombre": "Ricardo",
+        "numero_camiseta": null,
+        "pais": "Colombia",
+        "password": "password456",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "West Ham United",
+    "noticias": [],
+    "pais": "Reino Unido",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110549a383f8955736b04",
+    "capitan": "64506bac6deb6789a2144fc7",
+    "ciudad": "Liverpool",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bac6deb6789a2144fc7",
+        "apellido": "Hernández",
+        "ciudad": "Montevideo",
+        "direccion": {},
+        "edad": null,
+        "email": "marinahernandez@example.com",
+        "fecha_nacimiento": "1980-11-24",
+        "nacimiento": null,
+        "nombre": "Marina",
+        "numero_camiseta": null,
+        "pais": "Uruguay",
+        "password": "clave456",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Everton",
+    "noticias": [],
+    "pais": "Reino Unido",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110549a383f8955736b06",
+    "capitan": "64506bac6deb6789a2144fc8",
+    "ciudad": "Belo Horizonte",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bac6deb6789a2144fc8",
+        "apellido": "Torres",
+        "ciudad": "Santiago",
+        "direccion": {},
+        "edad": null,
+        "email": "santiagotorres@example.com",
+        "fecha_nacimiento": "1994-12-07",
+        "nacimiento": null,
+        "nombre": "Santiago",
+        "numero_camiseta": null,
+        "pais": "Chile",
+        "password": "abcde456",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Atlético Mineiro",
+    "noticias": [],
+    "pais": "Brasil",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110549a383f8955736b08",
+    "capitan": "64506bae6deb6789a2144fc9",
+    "ciudad": "Buenos Aires",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bae6deb6789a2144fc9",
+        "apellido": "García",
+        "ciudad": "Buenos Aires",
+        "direccion": {},
+        "edad": null,
+        "email": "lucas@example.com",
+        "fecha_nacimiento": "1994-09-22",
+        "nacimiento": null,
+        "nombre": "Lucas",
+        "numero_camiseta": null,
+        "pais": "Argentina",
+        "password": "contra876",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Boca Juniors",
+    "noticias": [],
+    "pais": "Argentina",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110559a383f8955736b0a",
+    "capitan": "64506bae6deb6789a2144fca",
+    "ciudad": "Buenos Aires",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bae6deb6789a2144fca",
+        "apellido": "Martínez",
+        "ciudad": "Lima",
+        "direccion": {},
+        "edad": null,
+        "email": "alicia@example.com",
+        "fecha_nacimiento": "1993-07-28",
+        "nacimiento": null,
+        "nombre": "Alicia",
+        "numero_camiseta": null,
+        "pais": "Perú",
+        "password": "mipass456",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "River Plate",
+    "noticias": [],
+    "pais": "Argentina",
+    "partidos": [],
+    "solicitudes": []
+  },
+  {
+    "_id": "645110559a383f8955736b0c",
+    "capitan": "64506bae6deb6789a2144fcb",
+    "ciudad": "Río de Janeiro",
+    "entrenador": null,
+    "fichajes": [],
+    "jugadores": [
+      {
+        "_id": "64506bae6deb6789a2144fcb",
+        "apellido": "Cortes",
+        "ciudad": "Colombia",
+        "direccion": {},
+        "edad": null,
+        "email": "cristiancortes@example.com",
+        "fecha_nacimiento": "1985-09-22",
+        "nacimiento": null,
+        "nombre": "Cristian",
+        "numero_camiseta": null,
+        "pais": "Bogotá",
+        "password": "pass679",
+        "posicion": null,
+        "telefono": null
+      }
+    ],
+    "nombre": "Flamengo",
+    "noticias": [],
+    "pais": "Brasil",
+    "partidos": [],
+    "solicitudes": []
+  }
+]
